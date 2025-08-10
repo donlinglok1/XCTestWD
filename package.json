@@ -15,7 +15,7 @@
     "ios-utils": "~1.0.0",
     "macaca-doctor": "^2.0.4",
     "macaca-utils": "^1.0.0",
-    "request": "~2.69.0",
+    "request": "~2.88.2",
     "shelljs": "^0.7.8",
     "webdriver-dfn-error-code": "~1.0.1",
     "xcode": "^0.8.9",
